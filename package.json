@@ -4,7 +4,7 @@
   "description": "A custom hook that implements useEffect hook in React 18+ as it was meant to be executed",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.ts",
+  "main": "main.ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
