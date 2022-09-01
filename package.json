@@ -1,0 +1,39 @@
+{
+  "name": "use18effect",
+  "private": false,
+  "description": "A custom hook that implements useEffect hook in React 18+ as it was meant to be executed",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.1",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevOsamaIslam/use18effect.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "useEffect"
+  ],
+  "author": "Osama Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevOsamaIslam/use18effect/issues"
+  },
+  "homepage": "https://github.com/DevOsamaIslam/use18effect#readme"
+}
